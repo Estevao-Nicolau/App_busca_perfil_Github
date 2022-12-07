@@ -1,11 +1,10 @@
-# desafio_app_github_estagio
+## Como Instalar? 
+Basta clonar o repositório e executar o comando flutter run.
+```
+$ git clone https://github.com/Estevao-Nicolau/App_busca_perfil_Github.git
+$ cd app_busca_perfil_github
+$ Flutter Run
+```
 
-A new Flutter module project.
-
-## Getting Started
-
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+# :iphone: Funcionalidades do projeto
+O app faz uma busca pelo nome do usuário do Github e traz o perfil e uma lista dos repositórios.
